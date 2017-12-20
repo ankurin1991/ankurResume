@@ -104,12 +104,16 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+    background-color: #ab950b !important;
+}
 
 .text-primary {
-  color: #BD5D38 !important; }
+    color: #ab950b !important;
+}
 
 a {
-  color: #BD5D38; }
-  a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #ab950b;
+}
+    a:hover, a:focus, a:active {
+        color: #6f6630;
+    }
